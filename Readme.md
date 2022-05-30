@@ -8,4 +8,4 @@ know the logic, structure, and programming of the other classes.  The only
 thing each class is permitted to do is send and receive messages to communicate
 with the other classes.
 
-Description written my Roger Jaffe - 2014-10-03
+Description written by Roger Jaffe - 2014-10-03
